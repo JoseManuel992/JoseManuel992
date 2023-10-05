@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [YelpCamp](https://github.com/JoseManuel992/YelpCamp)
+- 🔭 I’m currently working on [YelpCamp](https://github.com/JoseManuel992/YelpCamp) and my personal portfolio Website 
 
 - 🌱 I’m currently learning **Javascript, Nodejs and React**
 
